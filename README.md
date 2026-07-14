@@ -31,5 +31,5 @@ Também sou criador do **Ronas Tech**, canal dedicado a programação prática, 
 ## Onde me encontrar
 
 - YouTube: Ronas Tech
-- LinkedIn: [COLE_SEU_LINK]
+- LinkedIn: (https://www.linkedin.com/in/ronael-moura/)
 - Portfólio: em desenvolvimento
