@@ -1,6 +1,6 @@
 # Olá, eu sou Ronael Assunção 👋
 
-Sou Programador Full-Stack com Qualificação Profissional pelo SENAI Piauí, formação de 670 horas e conceito final APTO.
+Sou Programador Full-Stack com Qualificação Profissional pelo SENAI Piauí
 
 Também sou criador do **Ronas Tech**, canal dedicado a programação prática, resolução de erros, projetos e ferramentas para desenvolvedores.
 
